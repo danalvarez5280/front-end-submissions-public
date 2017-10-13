@@ -7,10 +7,10 @@
 # Basics
 
 #### Link to the GitHub Repository for the Project
-[BYOB]()
+[BYOB](https://github.com/sljohnson32/byob)
 
 #### Link to the Deployed Application
-[Heroku]()
+[Heroku](https://sj-da-byob.herokuapp.com/)
 
 
 ## Completion
@@ -18,25 +18,25 @@
 #### Were you able to complete the base functionality?
 
 * Documented all available endpoints and their usage in the README?
-(Yes/No)
+Yes
 
 * Seeded a database with at least 2 tables and 1 relationship?
-(Yes/No)
+Yes
 
 * Had at least 10 endpoints that returned responses with appropriate status codes?
-(Yes/No)
+Yes
 
 * Secured at least 4 endpoints with JWTs?
-(Yes/No)
+Yes
 
 * Enforced a linter and wrote code that conformed to it?
-(Yes/No)
+Yes
 
 * Wrote tests for both happy and sad paths for each endpoint?
-(Yes/No)
+Yes
 
 * Setup automatic deployments with CircleCI to a production app on Heroku?
-(Yes/No)
+Yes
 
 # Code Quality
 
